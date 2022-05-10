@@ -4,12 +4,12 @@ Learn how to how to prevent fires.
 
 ### Tips
 
--Stay in the kitchen when you are cooking food. If you have to leave , even for a short time turn off the stove.
--Keep fixed and portable space heaters at least three feet away from anything that can burn. Turn off the heaters when you are leaving the room or going to sleep.
--Keep matches and lighters up high, out of reach of children
--Install sprinklers
--Inspect electrical cords
--Be careful when using candles
+* Stay in the kitchen when you are cooking food. If you have to leave , even for a short time turn off the stove.
+* Keep fixed and portable space heaters at least three feet away from anything that can burn. Turn off the heaters when you are leaving the room or going to sleep.
+* Keep matches and lighters up high, out of reach of children
+* Install sprinklers
+* Inspect electrical cords
+* Be careful when using candles
 
 **Forest Safety**
 * Obey local laws regarding open fires, including campfires
@@ -23,7 +23,8 @@ Learn how to how to prevent fires.
 
 Home Safety   | Work Safety
 ------------- | -------------
-Content Cell  | Content Cell
+Install smoke alarms on every level of your home, inside bedrooms and outside sleeping rooms
+              | Content Cell
 Content Cell  | Content Cell
 
 
