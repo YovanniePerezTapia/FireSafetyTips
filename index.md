@@ -7,15 +7,13 @@ Learn how to how to prevent fires.
 ```markdown
 
 
-<h1>Forest Safety</h1>
-Home Safety
-Work Safety
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+**Forest Safety**
+-
+**Home Safety**
+-
+**Work Safety**
+-
+- 
 
 **Bold** and _Italic_ and `Code` text
 
