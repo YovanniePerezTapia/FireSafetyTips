@@ -2,16 +2,14 @@
 Learn how to how to prevent fires.
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Tips
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
+# Forest Safety
+## Home Safety
+### Work Safety
 
 - Bulleted
 - List
