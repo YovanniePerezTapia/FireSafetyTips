@@ -7,9 +7,9 @@ Learn how to how to prevent fires.
 ```markdown
 
 
-# Forest Safety
-## Home Safety
-### Work Safety
+<h1>Forest Safety</h1>
+Home Safety
+Work Safety
 
 - Bulleted
 - List
@@ -18,8 +18,5 @@ Learn how to how to prevent fires.
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 
