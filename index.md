@@ -26,8 +26,9 @@ Home Safety   | Work Safety
 Install smoke alarms on every level of your home, inside bedrooms and outside sleeping rooms
 Test smoke alarms every month. If they are not working, change the batteries
 Have a fire escape plan and practice the plan twice a year
-If a fire occurs in your home, get out, stay out, and call for help. Never go back inside for anything or anyone.| Minimize workplace fire hazards
-Pay attention to fire-prone areas
+If a fire occurs in your home, get out, stay out, and call for help. Never go back inside for anything or anyone.| Minimize workplace fire hazards Pay attention to fire-prone areas
+
+
 
 
 
