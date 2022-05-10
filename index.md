@@ -20,16 +20,21 @@ Learn how to how to prevent fires.
 * Drown all fires
 * Carefully extinguish smoking materials
 
+**Home Safety**
+* Install smoke alarms on every level of your home, inside bedrooms and outside sleeping rooms
+* Test smoke alarms every month. If they are not working, change the batteries
+* Have a fire escape plan and practice the plan twice a year
+* If a fire occurs in your home, get out, stay out, and call for help. Never go back inside for anything or anyone.
 
-Home Safety   | Work Safety
+**Work Safety**
+* Minimize workplace fire hazards
+* Pay attention to fire-prone areas
+* Keep exits clear & mark emergency exits
+* Properly maintain your work place fire detection and suppression system & fire extinguishers 
+* Educate your employees on your fire safety procedures & evacuation plan
+
 ------------- | -------------
-Install smoke alarms on every level of your home, inside bedrooms and outside sleeping rooms
-Test smoke alarms every month. If they are not working, change the batteries
-Have a fire escape plan and practice the plan twice a year
-If a fire occurs in your home, get out, stay out, and call for help. Never go back inside for anything or anyone.| Minimize workplace fire hazards Pay attention to fire-prone areas
-
-
-
+              | 
 
 
 
