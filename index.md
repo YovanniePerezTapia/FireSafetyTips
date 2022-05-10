@@ -1,7 +1,7 @@
 ## Fire Safety Tips
 Learn how to how to prevent fires.
 
-markdown
+
 ### Tips
 
 -Stay in the kitchen when you are cooking food. If you have to leave , even for a short time turn off the stove.
