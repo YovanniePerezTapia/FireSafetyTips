@@ -33,8 +33,10 @@ Learn how to how to prevent fires.
 * Properly maintain your work place fire detection and suppression system & fire extinguishers 
 * Educate your employees on your fire safety procedures & evacuation plan
 
+Good          | Bad
 ------------- | -------------
-              | 
+Call Fire Dept| Don't call Fire Dept
+Get out fast  | Go back inside fire
 
 
 
