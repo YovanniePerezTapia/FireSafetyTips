@@ -21,7 +21,7 @@ Learn how to how to prevent fires.
 -Carefully extinguish smoking materials
 
 
-**Home Safety   | Work Safety
+**Home Safety | Work Safety**
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
