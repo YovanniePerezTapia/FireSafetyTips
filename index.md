@@ -37,6 +37,7 @@ Good          | Bad
 ------------- | -------------
 Call Fire Dept| Don't call Fire Dept
 Get out fast  | Go back inside fire
-
-
+Have a plan   | Doesn't have fire plan
+Have fire exit| Doesn't have fire exits
+Have extinguisher| Doesn't have a extinguisher
 
