@@ -12,15 +12,13 @@ Learn how to how to prevent fires.
 -Be careful when using candles
 
 **Forest Safety**
-* Bullet list
- 
--Obey local laws regarding open fires, including campfires
--Keep all flammable objects away from fire. Scrape away leaves, twigs, and grass within a 10 foot diameter circle from fire
--Have firefighting tools nearby handy
--Never leave a fire unattended 
--Carefully dispose of hot charcoal
--Drown all fires
--Carefully extinguish smoking materials
+* Obey local laws regarding open fires, including campfires
+* Keep all flammable objects away from fire. Scrape away leaves, twigs, and grass within a 10 foot diameter circle from fire
+* Have firefighting tools nearby handy
+* Never leave a fire unattended 
+* Carefully dispose of hot charcoal
+* Drown all fires
+* Carefully extinguish smoking materials
 
 
 Home Safety   | Work Safety
