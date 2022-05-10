@@ -1,5 +1,5 @@
 ## Fire Safety Tips
-Learn how to how to prevent fires and what to do
+Learn how to how to prevent fires.
 
 
 ### Markdown
