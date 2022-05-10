@@ -1,5 +1,5 @@
 ## Fire Safety Tips
-Learn how to how to prevent fires.
+Fire Safety is the best way to save us from a fire. Fire Safety is important becasue it helps build more safety help and cause less fire accidents.
 
 
 ### Tips
