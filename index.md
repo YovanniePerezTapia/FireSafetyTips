@@ -47,3 +47,5 @@ Have a plan   | Doesn't have fire plan
 Have fire exit| Doesn't have fire exits
 Have extinguisher| Doesn't have a extinguisher
 
+    </body>
+    </html>
