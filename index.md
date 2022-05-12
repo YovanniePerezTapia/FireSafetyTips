@@ -1,4 +1,10 @@
-## Fire Safety Tips
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Fire Safety Tips</title>
+  </head>
+  <body>
 Fire Safety is the best way to save us from a fire. Fire Safety is important becasue it helps build more safety help and cause less fire accidents.
 
 
